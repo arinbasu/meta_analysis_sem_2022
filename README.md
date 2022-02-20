@@ -9,5 +9,5 @@ This is the github page for the tutorial on conducting meta analysis using struc
 * This website contains ALL materials and codes for the hackathon, and it will be heavily edited or updated, so check back often:
 
    * [Code ](tutorial.md)
-   * [slides]()
+   * [slides](meta_sem_22.Rmd)
 
