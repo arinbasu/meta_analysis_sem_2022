@@ -10,6 +10,8 @@ This is the github page for the tutorial on conducting meta analysis using struc
 
    * [Code ](tutorial.md)
    * [slides](meta_sem_22.Rmd)
+   * [Presentation](https://docs.google.com/presentation/d/1mxTZevf2ADxob08JW7GsUq3Id2hJG9cgqBd4MAdIizI/edit?usp=sharing)
+   * [Google Docs for discussion](https://docs.google.com/presentation/d/1mxTZevf2ADxob08JW7GsUq3Id2hJG9cgqBd4MAdIizI/edit?usp=sharing)
 
 * My names is Arindam Basu, and I am an Associate Professor of Epidemiology and Health Sciences at the University of Canterbury, you can reach me at:
 * Twitter: @arinbasu
